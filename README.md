@@ -20,7 +20,6 @@ A command-line utility to **read and edit ID3v2 tags** (like title, artist, albu
 - [Project Structure](#project-structure)
 - [Error Handling](#error-handling)
 - [Output](#output)
-- [License](#license)
 - [Author](#author)
 
 ---
@@ -173,11 +172,6 @@ gcc *.c
 
 ---
 
-## License
-
-This project is free to use, modify, and distribute for educational and personal purposes.
-
----
 
 ## Author
 
